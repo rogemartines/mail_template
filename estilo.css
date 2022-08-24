@@ -1,0 +1,40 @@
+body{
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+#cabecalho {
+    background:rgb(29, 53, 87);
+    border: 1 px solid rgb(29, 53, 87);
+    /*height: 65px;*/
+    padding: 12px;
+    text-align: center;
+}
+
+#conteudo {
+    width: 900px;
+    font-weight: normal;
+    padding: 15px;
+    margin: auto;
+    text-align: center;
+}
+
+#lista {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    padding-top: 30px;
+    padding-left: 275px;
+    padding-right: 275px;
+    align-items: center;
+    text-align: center;
+}
+
+#rodape {
+    background:rgb(29, 53, 87);
+    border: 1 px solid rgb(29, 53, 87);
+    /*height: 65px;*/
+    padding: 25px;
+    padding-left: 52px;
+    text-align: left;
+}
